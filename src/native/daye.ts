@@ -1,7 +1,7 @@
 import { NativeFunction, Return } from "../structures"
 
 export default new NativeFunction({
-    name: "$daye",
+    name: "$dey",
     version: "1.2.0",
     description: "Returns current day",
     unwrap: true,
